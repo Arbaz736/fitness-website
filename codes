@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Fit Hub</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <header>
+    <h1>Fit Hub</h1>
+    <nav>
+      <a href="#workouts">Workouts</a>
+      <a href="#nutrition">Nutrition</a>
+      <a href="#contact">Contact</a>
+    </nav>
+  </header>
+  
+  <section id="workouts">
+    <h2>Workout Plans</h2>
+    <p>Daily routines to keep you fit.</p>
+  </section>
+  
+  <section id="nutrition">
+    <h2>Nutrition Tips</h2>
+    <p>Fuel your body with the right food.</p>
+  </section>
+  
+  <footer>
+    <p>© 2025 Fit Hub</p>
+  </footer>
+</body>
+</html>
